@@ -1,3 +1,9 @@
+
+<img width="570" alt="Captura de pantalla 2024-11-07 a las 14 59 09" src="https://github.com/user-attachments/assets/6f43eb17-8817-4f13-8bc8-471cec0f4099">
+
+
+
+
 # Vue.js Simple CRUD - Todo List
 
 Este es un proyecto de CRUD (Create, Read, Update, Delete) simple, creado para practicar conocimientos de Vue.js. Es una aplicación de lista de tareas (Todo List) en la que puedes agregar, actualizar y eliminar tareas, además de organizarlas por categoría.
